@@ -26,6 +26,12 @@ But the Library for the MQ2 gas sensor is only programmed for detecting **LPG , 
 
 
 
+## PICTURES
+
+![image](https://github.com/SRDhanush16/SMART-AirQuality-System/assets/141258864/8c91c4b0-f1ce-449d-b5c6-6dfbfab0b71b)
+
+
+![image](https://github.com/SRDhanush16/SMART-AirQuality-System/assets/141258864/3d16d74d-ed0d-4008-972b-882839dfd416)
 
 
 
